@@ -1,7 +1,8 @@
 # OpenStreetMap-Data-Wrangling
 
 The Data Wrangling with SQL, Data Analyst Nanodegree,Udacity
-the html file of the final code is here: file:///Users/Farnaz/Developer/data-analysis/open-street-map/OpenStreetMap+Stockholm.html
+the html file of the final code is here: 
+file:///Users/Farnaz/Developer/data-analysis/open-street-map/OpenStreetMap+Stockholm.html
 
 Project Overview
 
