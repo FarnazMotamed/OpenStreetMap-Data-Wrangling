@@ -1,6 +1,6 @@
 # OpenStreetMap-Data-Wrangling, Udacity.com
 
-The Data Wrangling with SQL, Data Analyst Nanodegree, Udacity
+The Data Wrangling with SQL and Python code, Data Analyst Nanodegree, Udacity
 
 You can look at the [project at the link here](https://cdn.rawgit.com/FarnazMotamed/OpenStreetMap-Data-Wrangling/3237fd0f/Stockholm%2C%20python%20code/OpenStreetMap%2BStockholm.html)
 
